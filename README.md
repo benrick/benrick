@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Cool Things Visual Studio Can Do](https://www.youtube.com/watch?v=9sIi0kKboAM)
+- [Trying the Vending Machine Kata - Ep 263](https://www.youtube.com/watch?v=QVJBIHmMlFw)
+- [3 Things You Didn&#39;t Know VS Code Can Do - DevChatter](https://www.youtube.com/watch?v=dwBgIxgXlFU)
+- [6 Ways to Improve Your Stand Up Meetings - DevChatter](https://www.youtube.com/watch?v=KAalnjhthNQ)
+- [Reverse and Range Indexes in C# - DevChatter](https://www.youtube.com/watch?v=PyAYvUCTad8)
 <!-- BLOG-POST-LIST:END -->
