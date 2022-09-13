@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Blog posts
+### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
 - [4 Cool Things Visual Studio Can Do](https://www.youtube.com/watch?v=9sIi0kKboAM)
 - [Trying the Vending Machine Kata - Ep 263](https://www.youtube.com/watch?v=QVJBIHmMlFw)
