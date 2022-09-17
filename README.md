@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
-- [Set Up Custom GitHub Pages Domain with Google Domains](https://benrick.github.io/post/Custom-GitHub-Pages-Domain-with-Google-Domains/)
+- [Set Up Custom GitHub Pages Domain with Google Domains](https://brendoneus.com/post/Custom-GitHub-Pages-Domain-with-Google-Domains/)
 - [3 More Things VS Code Can Do - Ep 2](https://www.youtube.com/watch?v=rx-RHQmL1mU)
 - [4 Cool Things Visual Studio Can Do](https://www.youtube.com/watch?v=9sIi0kKboAM)
 - [Trying the Vending Machine Kata - Ep 263](https://www.youtube.com/watch?v=QVJBIHmMlFw)
