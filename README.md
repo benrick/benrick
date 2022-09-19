@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [How To Stop Websites Asking For Notifications And Locations](https://brendoneus.com/post/Stop-Websites-Asking-For-Notifications-And-Locations/)
 - [Moved My Site to GitHub Pages](https://brendoneus.com/post/Moved-My-Site-to-GitHub-Pages/)
 - [Set Up Custom GitHub Pages Domain with Google Domains](https://brendoneus.com/post/Custom-GitHub-Pages-Domain-with-Google-Domains/)
 - [3 More Things VS Code Can Do - Ep 2](https://www.youtube.com/watch?v=rx-RHQmL1mU)
 - [4 Cool Things Visual Studio Can Do](https://www.youtube.com/watch?v=9sIi0kKboAM)
-- [Trying the Vending Machine Kata - Ep 263](https://www.youtube.com/watch?v=QVJBIHmMlFw)
 <!-- BLOG-POST-LIST:END -->
