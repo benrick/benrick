@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [How To Stop Websites Asking For Notifications And Locations](https://www.youtube.com/watch?v=pHPRgzICsEA)
 - [What’s the Difference Between .NET, .NET Core, and .NET Framework](https://brendoneus.com/post/Difference-Between-DotNet-DotNetCore-DotNetFramework/)
 - [What&#39;s the Difference between .NET Framework and .NET Core?](https://www.youtube.com/watch?v=dLRd_LjVjNs)
 - [How To Stop Websites Asking For Notifications And Locations](https://brendoneus.com/post/Stop-Websites-Asking-For-Notifications-And-Locations/)
 - [Moved My Site to GitHub Pages](https://brendoneus.com/post/Moved-My-Site-to-GitHub-Pages/)
-- [Set Up Custom GitHub Pages Domain with Google Domains](https://brendoneus.com/post/Custom-GitHub-Pages-Domain-with-Google-Domains/)
 <!-- BLOG-POST-LIST:END -->
