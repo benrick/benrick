@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
-- [How To Stop Websites Asking For Notifications And Locations](https://www.youtube.com/watch?v=pHPRgzICsEA)
+- [How To Stop Websites Asking For Notifications And Locations in Chrome, Firefox, and Edge](https://www.youtube.com/watch?v=pHPRgzICsEA)
 - [What’s the Difference Between .NET, .NET Core, and .NET Framework](https://brendoneus.com/post/Difference-Between-DotNet-DotNetCore-DotNetFramework/)
 - [What&#39;s the Difference between .NET Framework and .NET Core?](https://www.youtube.com/watch?v=dLRd_LjVjNs)
 - [How To Stop Websites Asking For Notifications And Locations](https://brendoneus.com/post/Stop-Websites-Asking-For-Notifications-And-Locations/)
