@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Live Coding: Writing Intentionally Bad Code for a Kata - Ep 264](https://www.youtube.com/watch?v=v_0o_bsTVXU)
 - [Migrating Blog to Jekyll on GitHub Pages](https://brendoneus.com/post/Migrating-Blog-Jekyll-GitHub-Pages/)
 - [3 Things You Didn’t Know VS Code Can Do - Set 2](https://brendoneus.com/post/3-Things-You-Did-Not-Know-VSCode-Can-Do-Part2/)
 - [3 Things You Didn&#39;t Know About Customizing VS Code - Ep 3](https://www.youtube.com/watch?v=1eiMpsEWigI)
 - [3 Things You Didn’t Know VS Code Can Do - Set 1](https://brendoneus.com/post/3-Things-You-Did-Not-Know-VSCode-Can-Do-Part1/)
-- [How To Stop Websites Asking For Notifications And Locations in Chrome, Firefox, and Edge](https://www.youtube.com/watch?v=pHPRgzICsEA)
 <!-- BLOG-POST-LIST:END -->
