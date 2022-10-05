@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Live Coding - Attempting the Lift Pass Refactoring Kata - Ep 265](https://www.youtube.com/watch?v=Fqp05K0hJUk)
 - [Creating Your First GitHub Action - Learn to Automate Your Builds](https://www.youtube.com/watch?v=jCJYOuulE70)
 - [I’m Speaking at CodeMash 2023](https://brendoneus.com/post/Speaking-At-CodeMash-2023/)
 - [HTML Tags to Use Instead of Divs #Shorts](https://www.youtube.com/watch?v=BSP8O4mzvVU)
 - [3 Things You Didn’t Know VS Code Can Do - Part 3, Color Theme, Settings Search, and Settings Sync](https://brendoneus.com/post/3-Things-You-Did-Not-Know-VSCode-Can-Do-Part3/)
-- [Live Coding: Writing Intentionally Bad Code for a Kata - Ep 264](https://www.youtube.com/watch?v=v_0o_bsTVXU)
 <!-- BLOG-POST-LIST:END -->
