@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Record Types Save You Time and Code in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=vvQL80eOZQc)
 - [VS Code Tips and Tricks - Ep 7 #programming #tips](https://www.youtube.com/watch?v=d-RBZ5Q7WHA)
 - [Crash Course in VS Code - #vscode #programming #coding](https://www.youtube.com/watch?v=P3gqosnxGUs)
 - [Correctly Checking for Null in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=zHwgs-wCRDI)
 - [First Look at JetBrains Fleet - Live Stream -  Ep 270 #programming #jetbrains #firstlook](https://www.youtube.com/watch?v=9UwwOv9a1zY)
-- [VS Code Tips - Editor Selection and Line Manipulation - Ep 6 #vscode #programming](https://www.youtube.com/watch?v=8351VwdTPQ8)
 <!-- BLOG-POST-LIST:END -->
