@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Stop Dragging! Copy-Paste Like a Pro in #vscode ! #shorts](https://www.youtube.com/watch?v=WkMQYqmLPZU)
 - [How Span in #csharp improves performance in #dotnet #programming](https://www.youtube.com/watch?v=PQyOL9-lkGE)
 - [Record Types Save You Time and Code in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=vvQL80eOZQc)
 - [VS Code Tips and Tricks - Ep 7 #programming #tips](https://www.youtube.com/watch?v=d-RBZ5Q7WHA)
 - [Crash Course in VS Code - #vscode #programming #coding](https://www.youtube.com/watch?v=P3gqosnxGUs)
-- [Correctly Checking for Null in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=zHwgs-wCRDI)
 <!-- BLOG-POST-LIST:END -->
