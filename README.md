@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Quickly Set Up Vue Vite Vitest and Playwright](https://www.youtube.com/watch?v=-6poECSJkqs)
 - [Avoid Nulls with these in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=ts2MwI8CuAo)
 - [Stop Dragging! Copy-Paste Like a Pro in #vscode ! #shorts](https://www.youtube.com/watch?v=WkMQYqmLPZU)
 - [How Span in #csharp improves performance in #dotnet #programming](https://www.youtube.com/watch?v=PQyOL9-lkGE)
 - [Record Types Save You Time and Code in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=vvQL80eOZQc)
-- [VS Code Tips and Tricks - Ep 7 #programming #tips](https://www.youtube.com/watch?v=d-RBZ5Q7WHA)
 <!-- BLOG-POST-LIST:END -->
