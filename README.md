@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
-- [Quickly Set Up #Vue #Vite Vitest and #Playwright with #npm](https://www.youtube.com/watch?v=-6poECSJkqs)
+- [Set Up #Vue #Vite and #Playwright in VS Code - #tutorial](https://www.youtube.com/watch?v=-6poECSJkqs)
 - [Avoid Nulls with these in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=ts2MwI8CuAo)
 - [Stop Dragging! Copy-Paste Like a Pro in #vscode ! #shorts](https://www.youtube.com/watch?v=WkMQYqmLPZU)
 - [How Span in #csharp improves performance in #dotnet #programming](https://www.youtube.com/watch?v=PQyOL9-lkGE)
