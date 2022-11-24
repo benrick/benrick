@@ -28,9 +28,9 @@ My name is Brendan, and I am a nerd/geek. I've been programming since the late '
 
 ### Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Exploring C# Performance Together - #programming #dotnet #csharp](https://www.youtube.com/watch?v=mP5CrkHxtKQ)
 - [Set Up #Vue #Vite and #Playwright in VS Code - #tutorial](https://www.youtube.com/watch?v=-6poECSJkqs)
 - [Avoid Nulls with these in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=ts2MwI8CuAo)
 - [Stop Dragging! Copy-Paste Like a Pro in #vscode ! #shorts](https://www.youtube.com/watch?v=WkMQYqmLPZU)
 - [Improve Your Code&#39;s Performance with Span in #csharp - #dotnet #programming](https://www.youtube.com/watch?v=PQyOL9-lkGE)
-- [Record Types Save You Time and Code in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=vvQL80eOZQc)
 <!-- BLOG-POST-LIST:END -->
