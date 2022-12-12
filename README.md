@@ -26,7 +26,7 @@ My name is Brendan, and I am a nerd/geek. I've been programming since the late '
 - ⚡ Fun fact: ...
 -->
 
-### Latest YouTube Videos
+### Latest Online Content
 <!-- BLOG-POST-LIST:START -->
 - [11 Ways of Making Your C# Harder to Use](https://brendoneus.com//post/Ways-Of-Making-CSharp-Harder/)
 - [Coding Minesweeper - Static HTML and JavaScript - Pair Programming with Guy Royse -  Ep 272](https://www.youtube.com/watch?v=9ssOoL_Wj8I)
