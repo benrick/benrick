@@ -28,9 +28,9 @@ My name is Brendan, and I am a nerd/geek. I've been programming since the late '
 
 ### Latest Online Content
 <!-- BLOG-POST-LIST:START -->
+- [Building Minesweeper - Showing Why Logic Should Not Be in the UI](https://brendoneus.com//post/DotNet-Minesweeper-Keep-Logic-Away-from-UI/)
+- [11 Ways of Making Your C# Harder to Use](https://brendoneus.com//post/Ways-Of-Making-CSharp-Harder/)
 - [Coding Minesweeper - Static HTML and JavaScript - Pair Programming with Guy Royse -  Ep 272](https://www.youtube.com/watch?v=9ssOoL_Wj8I)
 - [Exploring C# Performance Together - #programming #dotnet #csharp](https://www.youtube.com/watch?v=mP5CrkHxtKQ)
 - [Set Up #Vue #Vite and #Playwright in VS Code - #tutorial](https://www.youtube.com/watch?v=-6poECSJkqs)
-- [Avoid Nulls with these in C# #shorts #programming #csharp](https://www.youtube.com/watch?v=ts2MwI8CuAo)
-- [Stop Dragging! Copy-Paste Like a Pro in #vscode ! #shorts](https://www.youtube.com/watch?v=WkMQYqmLPZU)
 <!-- BLOG-POST-LIST:END -->
