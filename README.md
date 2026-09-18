@@ -28,9 +28,9 @@ My name is Brendan, and I am a nerd/geek. I've been programming since the late '
 
 ### Latest Online Content
 <!-- BLOG-POST-LIST:START -->
-- [Coding Stream Chat Bot Live - FF7 Interaction - #dotnet #csharp #coding](https://www.youtube.com/watch?v=pyl1UL8F1xk)
-- [Coding Stream Chat Bot Live - FF7 Interaction - #dotnet #csharp #coding](https://www.youtube.com/watch?v=9YBZJAz_A1s)
 - [Building Minesweeper - Showing Why Logic Should Not Be in the UI](https://brendoneus.com//post/DotNet-Minesweeper-Keep-Logic-Away-from-UI/)
 - [11 Ways of Making Your C# Harder to Use](https://brendoneus.com//post/Ways-Of-Making-CSharp-Harder/)
-- [Coding Minesweeper - Static HTML and JavaScript - Pair Programming with Guy Royse -  Ep 272](https://www.youtube.com/watch?v=9ssOoL_Wj8I)
+- [3 Things You Didn’t Know VS Code Can Do - Part 4, Custom File Icons, Keyboard Shortcuts, and Import Keymaps](https://brendoneus.com//post/3-Things-You-Did-Not-Know-VSCode-Can-Do-Part4/)
+- [I’m Speaking at CodeMash 2023](https://brendoneus.com//post/Speaking-At-CodeMash-2023/)
+- [3 Things You Didn’t Know VS Code Can Do - Part 3, Color Theme, Settings Search, and Settings Sync](https://brendoneus.com//post/3-Things-You-Did-Not-Know-VSCode-Can-Do-Part3/)
 <!-- BLOG-POST-LIST:END -->
